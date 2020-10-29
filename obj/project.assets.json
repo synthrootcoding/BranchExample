@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\synth\\source\\repos\\ATMLab\\ATMLab\\ATMLab.csproj",
+      "projectUniqueName": "C:\\Users\\synth\\OneDrive\\Desktop\\BranchExample\\ATMLab.csproj",
       "projectName": "ATMLab",
-      "projectPath": "C:\\Users\\synth\\source\\repos\\ATMLab\\ATMLab\\ATMLab.csproj",
+      "projectPath": "C:\\Users\\synth\\OneDrive\\Desktop\\BranchExample\\ATMLab.csproj",
       "packagesPath": "C:\\Users\\synth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\synth\\source\\repos\\ATMLab\\ATMLab\\obj\\",
+      "outputPath": "C:\\Users\\synth\\OneDrive\\Desktop\\BranchExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
