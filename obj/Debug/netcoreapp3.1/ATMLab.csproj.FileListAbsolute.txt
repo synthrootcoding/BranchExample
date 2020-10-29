@@ -1,0 +1,13 @@
+C:\Users\synth\source\repos\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.exe
+C:\Users\synth\source\repos\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.deps.json
+C:\Users\synth\source\repos\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.json
+C:\Users\synth\source\repos\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.dev.json
+C:\Users\synth\source\repos\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.dll
+C:\Users\synth\source\repos\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.pdb
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csprojAssemblyReference.cache
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfoInputs.cache
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfo.cs
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csproj.CoreCompileInputs.cache
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.dll
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.pdb
+C:\Users\synth\source\repos\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.genruntimeconfig.cache
