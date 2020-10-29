@@ -18,7 +18,7 @@ namespace ATMLab
 
                 if (userResponse == "1")
                 {
-                    Console.WriteLine("Great! Welcome, new user.");
+                    Console.WriteLine("Hello, new user");
                     Console.WriteLine("What is your username?");
                     string username = Console.ReadLine();
 
